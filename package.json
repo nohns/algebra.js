@@ -1,5 +1,5 @@
 {
-  "name": "algebra.js",
+  "name": "@nohns/algebra.js",
   "version": "0.2.6",
   "description": "Build, display, and solve algebraic equations.",
   "main": "algebra.js",
